@@ -1,0 +1,22 @@
+{
+  "storeName": "store1",
+  "locationNumber": 1000,
+  "inventory": [
+    {
+      "colour": "black",
+      "size": "s",
+      "itemCode": 10,
+      "name": "shirt",
+      "stockCount": 1,
+      "status": "in stock"
+    },
+    {
+      "colour": "black",
+      "size": "m",
+      "itemCode": 20,
+      "name": "shirt",
+      "stockCount": 1,
+      "status": "in stock"
+    }
+  ]
+}

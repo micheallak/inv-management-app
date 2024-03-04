@@ -1,0 +1,38 @@
+{
+    "storeName": "store 2",
+    "locationNumber": 1001,
+    "inventory": [
+        {
+            "colour": "black",
+            "size": "1",
+            "itemCode": 1001,
+            "name": "Sweater",
+            "stockCount": 10,
+            "status": "in stock"
+        },
+        {
+            "colour": "black",
+            "size": "3",
+            "itemCode": 1003,
+            "name": "Sweater",
+            "stockCount": 9,
+            "status": "in stock"
+        },
+        {
+            "colour": "blue",
+            "size": "2",
+            "itemCode": 1102,
+            "name": "Jeans",
+            "stockCount": 0,
+            "status": "out of stock"
+        },
+        {
+            "colour": "blue",
+            "size": "3",
+            "itemCode": 1103,
+            "name": "Jeans",
+            "stockCount": 15,
+            "status": "in stock"
+        }
+    ]
+}
