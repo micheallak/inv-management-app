@@ -1,1 +1,0 @@
-# inv-management-app
